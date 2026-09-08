@@ -104,8 +104,8 @@ ping 10.0.2.1
 
 **Result:**
 ```
-90 packets transmitted, 90 received, 0% packet loss
-rtt min/avg/max/mdev = 0.281/1.493/6.692/1.280 ms
+20 packets transmitted, 20 received, 0% packet loss
+rtt min/avg/max/mdev = 0.551/3.227/23.683/5.370 ms
 ```
 
 ![Ping success from Kali to DevGuru](ping-success.jpeg)
