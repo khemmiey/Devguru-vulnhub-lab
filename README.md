@@ -108,7 +108,8 @@ ping 10.0.2.1
 rtt min/avg/max/mdev = 0.281/1.493/6.692/1.280 ms
 ```
 
-![Ping success from Kali to DevGuru](screenshots/ping-success.png)
+![Ping success from Kali to DevGuru](ping-success.jpeg)
+
 
  **0% packet loss confirms Kali and DevGuru are successfully connected on the isolated lab network.**
 
